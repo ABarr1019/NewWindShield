@@ -1,0 +1,52 @@
+.jumbotron{
+	text-align: center;
+	background-image: url("images/windshieldreplacecropped-03-29-2016jpg.jpg");
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size: cover;
+	color: white;
+	-webkit-filter: grayscale(0%);
+	filter:grayscale(0%);  
+	image-rendering: auto;
+  	image-rendering: crisp-edges;
+  
+
+}
+
+.navbar-default{
+	background: none;
+	border: 0;
+	box-shadow: none;
+	padding-top: 15px;
+	font-color: #66cc00;
+	font-size: 18px;
+	font-family: Arial;
+}
+
+h4{
+	text-align: center;
+}
+
+
+.row{
+	text-align: center;
+}
+
+span.glyphicon {
+	font-size: 50px;
+	color: blue;
+}
+
+.btn-primary{
+	margin-top: 9px;
+}
+
+.letsdothis{
+	text-align: center;
+}
+
+.ParaQuote{
+	font-size: 25px;
+}
